@@ -1,5 +1,6 @@
 # Investigacion
-##Análisis de Mercado y Encuesta para Aplicación Nutricional
+
+Análisis de Mercado y Encuesta para Aplicación Nutricional
 
 #Introducción
  En la actualidad, las aplicaciones móviles y web enfocadas en la nutrición se han convertido en una herramienta clave para el control y la mejora de los hábitos alimenticios. La  creciente preocupación por la salud, el bienestar y la estética corporal ha impulsado la demanda de soluciones digitales que ayuden a los usuarios a gestionar su alimentación, controlar  su peso y alcanzar objetivos específicos de salud o rendimiento físico.
