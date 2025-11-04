@@ -228,7 +228,7 @@ La encuesta combinó preguntas cerradas y abiertas, aplicada a 30 participantes 
 
 ---
 
-## 25. Resultados y Análisis de la Encuesta
+## 15. Resultados y Análisis de la Encuesta
 
 ### 1. Objetivos principales
 Mayoría indicó como meta subir de peso o ganar masa muscular, seguido por bajar de peso y comer más saludable.
