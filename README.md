@@ -229,6 +229,21 @@ La encuesta combinó preguntas cerradas y abiertas, aplicada a 30 participantes 
 ---
 
 ## 15. Resultados y Análisis de la Encuesta
+<img width="830" height="341" alt="1" src="https://github.com/user-attachments/assets/0dcc5694-ee2b-49bf-8a85-c241caa10d7c" />
+<img width="811" height="341" alt="2" src="https://github.com/user-attachments/assets/7f292509-cb75-45a4-b4df-de1ad9028cce" />
+<img width="819" height="367" alt="3" src="https://github.com/user-attachments/assets/0c6992ad-2e8f-4ced-a289-7448347d3c14" />
+<img width="821" height="366" alt="4" src="https://github.com/user-attachments/assets/37ef014a-3645-4780-a70c-af61a026f819" />
+<img width="828" height="366" alt="5" src="https://github.com/user-attachments/assets/66ca1568-ba8a-4f74-8182-53e249ac27e3" />
+<img width="819" height="362" alt="6" src="https://github.com/user-attachments/assets/228f32da-40a4-4f66-8062-5f208fc4c44f" />
+<img width="764" height="342" alt="7" src="https://github.com/user-attachments/assets/0514dd6a-fa7e-4fb2-9497-33f19e91503d" />
+<img width="759" height="343" alt="8" src="https://github.com/user-attachments/assets/8e0e7f49-3c2e-4f57-9153-f42b2b0170ba" />
+<img width="770" height="336" alt="9" src="https://github.com/user-attachments/assets/c8b5fb8d-4d6b-4ed9-8ece-0d52cd40ee28" />
+<img width="766" height="341" alt="10" src="https://github.com/user-attachments/assets/4b6d8d70-9bd6-4b3e-b137-434a4ccb9d60" />
+<img width="762" height="317" alt="11" src="https://github.com/user-attachments/assets/d361d5ce-7db1-453e-bbe6-a8ce8e805e44" />
+<img width="766" height="314" alt="12" src="https://github.com/user-attachments/assets/7ccd213c-eb08-4499-97e9-516c2f491fda" />
+<img width="761" height="340" alt="13" src="https://github.com/user-attachments/assets/80c29b39-36dd-4632-9ddf-47c325ef9b91" />
+<img width="769" height="351" alt="14" src="https://github.com/user-attachments/assets/09f41266-fefd-4d66-b58c-a006d8f9b595" />
+<img width="760" height="308" alt="15" src="https://github.com/user-attachments/assets/6d7c1e14-c52b-4f91-b12a-5012aee304cd" />
 
 ### 1. Objetivos principales
 Mayoría indicó como meta subir de peso o ganar masa muscular, seguido por bajar de peso y comer más saludable.
