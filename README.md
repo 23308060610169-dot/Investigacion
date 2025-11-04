@@ -24,7 +24,7 @@ La metodología empleada en esta investigación se dividió en dos etapas princi
 
 ---
 
-### 2.1. Análisis de Aplicaciones Existentes
+### Análisis de Aplicaciones Existentes
 
 En la primera etapa, se seleccionaron tres aplicaciones de nutrición ampliamente utilizadas a nivel internacional: **MyFitnessPal**, **Yazio** y **Cronometer**.
 
@@ -70,7 +70,7 @@ El análisis se realizó mediante exploración directa, revisiones de usuarios e
 
 ---
 
-##  Análisis de Aplicaciones Existentes
+## 3. Análisis de Aplicaciones Existentes
 
 Se seleccionaron MyFitnessPal, Yazio y Cronometer por su popularidad y diversidad de enfoques.
 
@@ -103,7 +103,7 @@ Se seleccionaron MyFitnessPal, Yazio y Cronometer por su popularidad y diversida
 
 ---
 
-## 3. Diseño y Aplicación de la Encuesta
+## 4. Diseño y Aplicación de la Encuesta
 
 Se diseñó una encuesta de 15 preguntas aplicada mediante Google Forms a 30 participantes (mayoría entre 18–24 años).
 
@@ -118,7 +118,7 @@ Cada integrante debía aplicar la encuesta a un mínimo de 15 personas buscando 
 
 ---
 
-## ¿PARA QUÉ SIRVE UNA APP NUTRICIONAL?
+## 5. ¿PARA QUÉ SIRVE UNA APP NUTRICIONAL?
 
 Una app nutricional ayuda a mejorar hábitos alimenticios mediante el registro, análisis y seguimiento de dieta, actividad física y objetivos de salud. Sus propósitos incluyen:
 
@@ -131,7 +131,7 @@ Una app nutricional ayuda a mejorar hábitos alimenticios mediante el registro, 
 
 ---
 
-## FUNCIONALIDADES PRINCIPALES DE LAS NUTRI APPS
+## 6. FUNCIONALIDADES PRINCIPALES DE LAS NUTRI APPS
 
 - Plan de alimentación personalizado (cálculo de calorías y distribución de macronutrientes, generación de menús).  
 - Registro de alimentos (diario alimenticio, base de datos, escaneo de códigos de barras, reconocimiento por foto).  
@@ -142,7 +142,7 @@ Una app nutricional ayuda a mejorar hábitos alimenticios mediante el registro, 
 
 ---
 
-## INFORMACIÓN QUE SOLICITA UNA APP NUTRICIONAL
+## 7. INFORMACIÓN QUE SOLICITA UNA APP NUTRICIONAL
 
 - Datos personales: nombre, género, edad, peso, altura, peso deseado.  
 - Nivel de actividad física y frecuencia de ejercicio.  
@@ -153,7 +153,7 @@ Una app nutricional ayuda a mejorar hábitos alimenticios mediante el registro, 
 
 ---
 
-## FUNCIONES ADICIONALES (apps avanzadas)
+## 8. FUNCIONES ADICIONALES (apps avanzadas)
 
 - Chat con nutriólogo o coach virtual.  
 - Generador de listas de compra.  
@@ -164,7 +164,7 @@ Una app nutricional ayuda a mejorar hábitos alimenticios mediante el registro, 
 
 ---
 
-## USO DE INTELIGENCIA ARTIFICIAL EN APPS NUTRICIONALES
+## 9. USO DE INTELIGENCIA ARTIFICIAL EN APPS NUTRICIONALES
 
 1. Reconocimiento de alimentos por fotografía y estimación de porciones y calorías.  
 2. Recomendaciones personalizadas que aprenden del historial del usuario.  
@@ -172,14 +172,14 @@ Una app nutricional ayuda a mejorar hábitos alimenticios mediante el registro, 
 
 ---
 
-## TIPOS DE APIs USADAS
+## 10. TIPOS DE APIs USADAS
 
 - APIs nutricionales: USDA FoodData Central, Edamam, Nutritionix.  
 - APIs de salud y fitness: Google Fit, Apple HealthKit, Fitbit.
 
 ---
 
-## MERCADO Y EJEMPLOS REALES
+## 11. MERCADO Y EJEMPLOS REALES
 
 - MyFitnessPal — registro y sincronización con wearables.  
 - Lifesum — planes según metas y dieta.  
@@ -188,7 +188,7 @@ Una app nutricional ayuda a mejorar hábitos alimenticios mediante el registro, 
 
 ---
 
-## VENTAJAS Y DESVENTAJAS
+## 12. VENTAJAS Y DESVENTAJAS
 
 **Ventajas:**  
 - Acceso fácil y económico al control nutricional.  
@@ -205,7 +205,7 @@ Fuentes citadas: OMS (Guías 2023), Edamam API, OpenAI Developer Platform (2025)
 
 ---
 
-## SEGURIDAD Y PRIVACIDAD
+## 13. SEGURIDAD Y PRIVACIDAD
 
 Las apps manejan datos sensibles (personales, de salud, biométricos). Requieren medidas como:
 
@@ -220,7 +220,7 @@ Riesgos: robo o filtración de datos, venta a anunciantes, mal uso de informaci�
 
 ---
 
-## Diseño: Justificación de preguntas y metodología (encuesta)
+## 14. Diseño: Justificación de preguntas y metodología (encuesta)
 
 Se justifican las 15 preguntas según objetivos: identificar metas del usuario, restricciones alimenticias, preferencia entre planificación o registro, interés en funciones complementarias (escáner, wearables, gráficos), preferencia por consejos automáticos vs control manual, datos demográficos y tipo de contenido educativo.
 
@@ -228,7 +228,7 @@ La encuesta combinó preguntas cerradas y abiertas, aplicada a 30 participantes 
 
 ---
 
-## Resultados y Análisis de la Encuesta
+## 25. Resultados y Análisis de la Encuesta
 
 ### 1. Objetivos principales
 Mayoría indicó como meta subir de peso o ganar masa muscular, seguido por bajar de peso y comer más saludable.
@@ -270,7 +270,7 @@ Más solicitado: información sobre alimentos y nutrientes, consejos sobre hábi
 
 ---
 
-## Conclusiones del análisis de la encuesta
+## 16. Conclusiones del análisis de la encuesta
 
 1. Público objetivo: joven (15–24), interesado en mejorar apariencia, energía o rendimiento.  
 2. Valoran simplicidad y personalización: registro de comidas, recordatorios, seguimiento.  
@@ -280,7 +280,7 @@ Más solicitado: información sobre alimentos y nutrientes, consejos sobre hábi
 
 ---
 
-## Oportunidades detectadas
+## 17. Oportunidades detectadas
 
 - Incorporar IA para consejos y planes personalizados.  
 - Incluir recetas rápidas y saludables adaptadas al estilo de vida juvenil.  
@@ -291,7 +291,7 @@ Más solicitado: información sobre alimentos y nutrientes, consejos sobre hábi
 
 ---
 
-## Conclusiones y Oportunidades Generales
+## 18. Conclusiones y Oportunidades Generales
 
 El mercado de apps nutricionales presenta avances y áreas de mejora. MyFitnessPal destaca por base de datos y conectividad; Yazio por diseño y accesibilidad; Cronometer por exactitud técnica. Retos comunes: muchas funciones avanzadas en pago y necesidad de personalización sin saturar al usuario.
 
