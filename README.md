@@ -15,13 +15,48 @@ Las apps nutricionales combinan bases de datos alimentarias, algoritmos personal
 El presente trabajo tiene como propósito analizar tres aplicaciones nutricionales existentes para identificar características, fortalezas, debilidades y oportunidades de mejora. Este análisis sirve de base para diseñar una encuesta que permita conocer preferencias, expectativas y problemas comunes entre usuarios potenciales, y definir áreas de innovación para una futura aplicación.
 
 ---
+## Metodología de la Investigación
 
-## Metodología
+La metodología empleada en esta investigación se dividió en dos etapas principales:
 
-La investigación se dividió en dos etapas principales:
+1. **Análisis comparativo de aplicaciones existentes**
+2. **Diseño y aplicación de una encuesta a usuarios potenciales**
 
-1. Análisis comparativo de aplicaciones existentes.  
-2. Diseño y aplicación de una encuesta a usuarios potenciales.
+---
+
+### 1. Análisis de Aplicaciones Existentes
+
+En la primera etapa, se seleccionaron tres aplicaciones de nutrición ampliamente utilizadas a nivel internacional: **MyFitnessPal**, **Yazio** y **Cronometer**.
+
+La elección se basó en:
+
+- Su popularidad
+- Disponibilidad multiplataforma (iOS, Android y versión web)
+- Diversidad de enfoques: desde el registro general de calorías hasta el seguimiento científico de nutrientes
+
+#### Criterios de Evaluación
+
+Para cada aplicación se evaluaron los siguientes aspectos:
+
+- **Funcionalidades principales**: herramientas disponibles, registro de alimentos, cálculo de calorías, seguimiento de progreso y personalización
+- **Experiencia de usuario (UX/UI)**: facilidad de uso, diseño visual y accesibilidad
+- **Modelo de negocio**: tipo de acceso (gratuito, freemium o de pago)
+- **Puntos fuertes y débiles**: aspectos destacables y áreas de oportunidad observadas
+- **Características innovadoras**: elementos diferenciadores o tecnologías avanzadas, como inteligencia artificial o integración con dispositivos
+
+#### Procedimiento
+
+El análisis se realizó mediante:
+
+- Exploración directa de las aplicaciones
+- Revisión de opiniones de usuarios en tiendas digitales
+- Consulta de documentación disponible en sus sitios oficiales
+
+Los resultados se organizaron en:
+
+- Formato descriptivo individual
+- Tabla comparativa para facilitar la interpretación
+
 
 ### Criterios de evaluación (análisis de apps)
 
