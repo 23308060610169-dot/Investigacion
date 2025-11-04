@@ -6,7 +6,7 @@ Heriberto Yurem Vasquez Cervantes — Cetis61
 
 ---
 
-## Introducción
+## 1. Introducción
 
 En la actualidad, las aplicaciones móviles y web enfocadas en la nutrición se han convertido en herramientas clave para el control y la mejora de los hábitos alimenticios. La preocupación por la salud, el bienestar y la estética corporal ha impulsado la demanda de soluciones digitales que ayuden a gestionar la alimentación, controlar el peso y alcanzar objetivos específicos de salud o rendimiento físico.
 
@@ -15,7 +15,7 @@ Las apps nutricionales combinan bases de datos alimentarias, algoritmos personal
 El presente trabajo tiene como propósito analizar tres aplicaciones nutricionales existentes para identificar características, fortalezas, debilidades y oportunidades de mejora. Este análisis sirve de base para diseñar una encuesta que permita conocer preferencias, expectativas y problemas comunes entre usuarios potenciales, y definir áreas de innovación para una futura aplicación.
 
 ---
-## Metodología de la Investigación
+## 2. Metodología de la Investigación
 
 La metodología empleada en esta investigación se dividió en dos etapas principales:
 
@@ -24,7 +24,7 @@ La metodología empleada en esta investigación se dividió en dos etapas princi
 
 ---
 
-### 1. Análisis de Aplicaciones Existentes
+### 2.1. Análisis de Aplicaciones Existentes
 
 En la primera etapa, se seleccionaron tres aplicaciones de nutrición ampliamente utilizadas a nivel internacional: **MyFitnessPal**, **Yazio** y **Cronometer**.
 
@@ -70,7 +70,7 @@ El análisis se realizó mediante exploración directa, revisiones de usuarios e
 
 ---
 
-## 1. Análisis de Aplicaciones Existentes
+##  Análisis de Aplicaciones Existentes
 
 Se seleccionaron MyFitnessPal, Yazio y Cronometer por su popularidad y diversidad de enfoques.
 
@@ -103,7 +103,7 @@ Se seleccionaron MyFitnessPal, Yazio y Cronometer por su popularidad y diversida
 
 ---
 
-## 2. Diseño y Aplicación de la Encuesta
+## 3. Diseño y Aplicación de la Encuesta
 
 Se diseñó una encuesta de 15 preguntas aplicada mediante Google Forms a 30 participantes (mayoría entre 18–24 años).
 
